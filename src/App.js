@@ -17,7 +17,6 @@ function App() {
         if (!clickedCards.includes(id)) {
             setScore((prevScore) => prevScore + 1);
             setClickedCards((prevState) => [...prevState, id]);
-            console.log(clickedCards);
         } else {
             setScore(0);
             setClickedCards([]);
