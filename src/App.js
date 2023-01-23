@@ -66,10 +66,26 @@ function App() {
     return (
         <div className="App">
             <div>
-                <Score currentScore={score} />
-                <BestScore bestScore={bestScore} />
+                <div>
+                    <Score currentScore={score} />
+                    <BestScore bestScore={bestScore} />
+                </div>
+                <span>
+                    Get points by clicking on a card but don't click on any more
+                    than once!
+                </span>
             </div>
             <div className="cards-container">{array}</div>
+            <footer>
+                Pictures from{' '}
+                <a
+                    target={'_blank'}
+                    href="https://www.freepik.com/"
+                    rel="noreferrer"
+                >
+                    Freepik
+                </a>
+            </footer>
         </div>
     );
 }

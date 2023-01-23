@@ -17,3 +17,16 @@ body {
     grid-auto-rows: 1fr;
     column-gap: 10px;
 }
+.App > div:first-of-type {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+span {
+    color: white;
+}
+
+footer {
+    margin: 15px;
+}
