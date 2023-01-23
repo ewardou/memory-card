@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.4a8bda71.css",
+    "main.js": "/memory-card/static/js/main.5653bd50.js",
+    "static/media/burger.jpg": "/memory-card/static/media/burger.d9d8bc7c9372f039d664.jpg",
+    "static/media/ceviche.jpg": "/memory-card/static/media/ceviche.3985ecd077fa47b87072.jpg",
+    "static/media/toshikoshi-soba.jpg": "/memory-card/static/media/toshikoshi-soba.6482bfa3d25940e7d009.jpg",
+    "static/media/feijoada.jpg": "/memory-card/static/media/feijoada.2133fb4364bf2be4b144.jpg",
+    "static/media/pastel.jpg": "/memory-card/static/media/pastel.ebb36216112d509ebdd2.jpg",
+    "static/media/shawarma.jpg": "/memory-card/static/media/shawarma.03f66891bed3a37b493f.jpg",
+    "static/media/chicken-biryani.jpg": "/memory-card/static/media/chicken-biryani.fa323f90808e350d0916.jpg",
+    "static/media/hotpot.jpg": "/memory-card/static/media/hotpot.9e43bb112d286d261d82.jpg",
+    "static/media/Satay.jpg": "/memory-card/static/media/Satay.c5a38bedb08a63e0d55f.jpg",
+    "static/media/salchipapa.jpg": "/memory-card/static/media/salchipapa.e5b8758fbe13151cf067.jpg",
+    "static/media/tequeños.jpg": "/memory-card/static/media/tequeños.225f598608593947be8f.jpg",
+    "static/media/gyozas.jpg": "/memory-card/static/media/gyozas.de9beba13d8bbe7e9e3d.jpg",
+    "index.html": "/memory-card/index.html",
+    "main.4a8bda71.css.map": "/memory-card/static/css/main.4a8bda71.css.map",
+    "main.5653bd50.js.map": "/memory-card/static/js/main.5653bd50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a8bda71.css",
+    "static/js/main.5653bd50.js"
+  ]
+}
