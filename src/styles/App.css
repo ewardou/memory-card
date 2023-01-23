@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+body {
+    /* background: linear-gradient(70deg, #fff810 30%, rgba(0, 0, 0, 0) 30%),
+        linear-gradient(30deg, #63e89e 60%, #ff7ee3 60%); */
+    background: linear-gradient(70deg, #ff6464 40%, #343c3f 40%);
+}
+
+.cards-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 1fr;
+    column-gap: 10px;
+}
